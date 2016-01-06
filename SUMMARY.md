@@ -8,5 +8,5 @@
 * [Iterations](chapter5.md)
 * [Control Flow](chapter6.md)
 * [Functions](chapter7.md)
-* Document Object Model
+* [Document Object Model](chapter8.md)
 
