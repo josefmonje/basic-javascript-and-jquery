@@ -7,21 +7,25 @@ element = document.getElementById("id")
 element = document.getElementByClass("class")
 element = document.querySelector("css selector")
 element = document.querySelectorAll("css selector")
+```
+> *Selecting HTML elements with JS*
 
+```
 element.innerHTML = "string"
 element.innerHTML = "<h1>string</h1>"
 
-element.parentNode
-
 element.style.display = 'none'
 element.style.visibility = 'hidden'
+```
+> *Manipulating HTML elements with JS*
 
+```
 window.onload = function () {
   init()
   doSomethingElse()
 }
 ```
-> *Selecting and manipulating HTML elements with JS*
+> *Events*
 
 
 ### Example
