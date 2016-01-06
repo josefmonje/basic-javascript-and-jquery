@@ -5,7 +5,7 @@
 * [Declarations](chapter2.md)
 * [Objects](chapter3.md)
 * [Operators](chapter4.md)
-* [Iterators](chapter5.md)
+* [Iterations](chapter5.md)
 * [Control Flow](chapter6.md)
 * [Functions](chapter7.md)
 
