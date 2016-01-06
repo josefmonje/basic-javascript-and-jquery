@@ -7,4 +7,5 @@
 * [Operators](chapter4.md)
 * [Iterators](chapter5.md)
 * [Control Flow](chapter6.md)
+* Functions
 
