@@ -1,4 +1,4 @@
-## Logic Control
+## Control Flow
 
 
 ### If Statements
