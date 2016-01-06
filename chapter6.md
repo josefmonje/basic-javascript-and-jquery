@@ -25,107 +25,11 @@ if (true) {
 > *If ...else Statements*
 
 
-```
-for (var i = 0; i < Array.length; i++) {
-  Array[i]
-}
-
-for (var i = Array.length-1; i >= 0; i--) {
-  Array[i]
-}
-```
-> *For loops*
-
-
 ### Research
 
 
 #### Statements and delarations:
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
-
-
-#### Operators:
-
-Assignment (`=`)
-
-Arithmetic (`+`, `-`, `*`, `/`, `%`, `++`, `--`)
-
-* Use + on strings to concatenate
-* Concatenating strings and numbers changes type to string
-* The Arithmetic and the Assignment operators can be used in conjunction
-
-Comparison (`==`, `===`, `!=`, `!==`, `<`, `>`, `<=`, `>=`)
-
-```
-// typeof keyword
-typeof undefined   // undefined
-typeof null        // object
-null == undefined  // true - both have no value assigned
-null === undefined // false - they are not of the same type
-```
-> *Using `typeof`, `==` and `===` to compare `null` and `undefined`*
-
-Logical (`&&` for And, `||` for Or)
-```
-var y = false || true // Boolean
-y == true
-```
-> *Using `||` in variable assignments*
-
-Ternary (`(expression) ? (if true) : (if false)`)
-```
-y == true ? console.log('yes') : console.log('no')
-```
-> *Example using a ternary operator*
-
-
-#### Expressions and Operators:
-> [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
-
-
-### Functions
-
-* Functions represent blocks of code
-* May be named or anonymous
-* May or may not accept arguments
-* May or may not return values
-* Can be defined in several ways
-
-
-#### Defining and calling functions:
-
-```
-function func () {} // spaces are ignored but make code more readable
-function func(arguments){
-  /*
-  do something
-  something = arguments + arguments
-  can also return something
-  */
-  return something
-}
-
-func()          // function "func" is called
-func(arguments) // with arguments
-
-function () {
-  // I'm an anonymous function
-}
-
-var f = func()       // contains values returned from func() 
-var f = func() {}    // assigns a function
-var f = func(args) { // assigns a function returns arguments passed to it
-  return args
-}
-var f = func         // the function definition is assigned
-f()                  // calls the function
-```
-> *Variable assignment and functions*
-
-
-#### Functions:
-> [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
-> [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
 
 
 ### Exercises
