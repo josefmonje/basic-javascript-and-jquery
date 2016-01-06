@@ -6,5 +6,5 @@
 * [Objects](chapter3.md)
 * [Operators](chapter4.md)
 * [Iterations](chapter5.md)
-* Control Flow
+* [Control Flow](chapter6.md)
 
