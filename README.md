@@ -40,4 +40,4 @@ After reading, you're expected to be able to:
 * Create and modify JavaScript and jQuery to a certain extent
 * Find solutions on your own
 
-You can reach me at [@josefmonje](https://twitter.com/josefmonje) for any questions, suggestions or donations ;)
+You can reach me at [@josefmonje](https://twitter.com/josefmonje) for any questions, suggestions, or training inquiries.
