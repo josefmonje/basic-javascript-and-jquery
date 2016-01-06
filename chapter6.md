@@ -32,38 +32,6 @@ if (true) {
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
 
 
-### Exercises
-
-* FizzBuzz
-  * Write a function that accepts a number as its parameter
-  * The function will loop as many times as that number
-  * The console will:
-    * print FIZZ if the number is divisible by 3
-    * print BUZZ if the number is divisible by 5
-    * print FIZZBUZZ! if the number is divisible by both 3 and 5
-    * or print the number if none of the above
-
-```
-0
-1
-2
-FIZZ
-4
-BUZZ
-FIZZ
-7
-8
-FIZZ
-BUZZ
-11
-FIZZ
-13
-14
-FUZZBUZZ!
-```
-> *Desired FizzBuzz output*
-
-
 ### Interacting with the Document Object Model or DOM
 
 Sample code in "vanilla" JavaScript:
@@ -157,22 +125,3 @@ While starting out, you'll likely encouter errors. Read them and try to understa
 ### Next
 
 * Learn how to use jQuery
-
-
-#### FizzBuzz Solution:
-
-```
-function FizzBuzz (n){
-  for (var i = n; i >= 0; --i) {
-    if ((i % 5 == 0) && (i % 3 == 0)) {
-      console.log("FizzBuzz!")
-    } else if (i % 3 == 0) {
-      console.log("Fizz")
-    } else if (i % 5 == 0) {
-      console.log("Buzz")
-    } else {
-      console.log(i)
-    }
-  }
-}
-```
