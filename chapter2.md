@@ -1,6 +1,6 @@
 # Declarations
 
-The Keyword used to declare a variable determines the variable's availability.
+In JS, variables are dynamic, meaning they can be of any type. The keyword used to declare a variable determines the variable's availability.
 
 ```
 var x
