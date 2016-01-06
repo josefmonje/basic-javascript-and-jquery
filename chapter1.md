@@ -61,9 +61,9 @@ Keyword dump! Let's stick to these common keywords for now:
 
 `var` or `let`: Declares a variable
 
-`if (expression) {} [ else [ if ] {} ]`: Depending on a condition, a block of statements may or may not be executed
-
 `for ((initialization); (condition); (final-expression)) {}`: For as long as condition is true, a block of statements will be executed. Ihe initialization will be executed at the beginning of the loop. The final-expression is executed at the end of each iteration of the loop.
+
+`if (expression) {} [ else [ if ] {} ]`: Depending on a condition, a block of statements may or may not be executed
 
 `function () {}`: Declares a function
 
@@ -72,5 +72,5 @@ Keyword dump! Let's stick to these common keywords for now:
 `try {} [ catch () ] {} [ finally {} ]`: Implements error handling to a block of statements
 
 * Parentheses:  expressions
-* Curly braces: block of code
-* Square braces: optional parts of the pattern
+* Curly brackets: block of code
+* *Square brackets: optional parts of the pattern*
