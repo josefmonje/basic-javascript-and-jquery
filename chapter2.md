@@ -32,7 +32,7 @@ const b
 * Object
 * *Array*
 * *Function*
-* null - has a value but the value is null
+* *null* - has a value but the value is null
 * undefined - has no assigned value
 
 ```
