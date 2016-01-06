@@ -55,7 +55,6 @@ Multiple lines: anything between `/*` and `*/`
 Again, why? You wouldn't want to delete stuff right away and type them all over again all the time. Comments let us do that with little effort. Eventually when you're writing more complex code, comments would help the reader.
 
 
-
 ### Some Common Keywords
 
 Keyword dump! Let's stick to these common keywords for now:
