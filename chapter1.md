@@ -77,7 +77,7 @@ Keyword dump! Let's stick to these common keywords for now:
 * Square braces: optional parts of the pattern
 
 
-### Variables
+## Variables
 
 The Keyword used to declare a variable determines the variable's availability.
 
@@ -151,6 +151,10 @@ In case of numbers being represented as strings (`"1"` as opposed to `1`), JS ha
 +"1.1" + +"1.1" = 2.2 
 ```
 > *Using `+` on numbers with string as their data type*
+
+
+## Logic Control
+
 
 ### If Statements
 
