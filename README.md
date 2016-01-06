@@ -37,7 +37,7 @@ I not only encourage you, I compel you to interact with the examples and do the 
 After reading, you're expected to be able to:
 
 * Understand soure codes of webpages
-* Create and modify HTML, CSS and JS to a certain extent
+* Create and modify JavaScript and jQuery to a certain extent
 * Find solutions on your own
 
 You can reach me at [@josefmonje](https://twitter.com/josefmonje) for any questions, suggestions or donations ;)
