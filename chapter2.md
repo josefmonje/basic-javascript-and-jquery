@@ -22,3 +22,7 @@ const b
 * Can declare multiple variables in a line
 * Value assignments not required on declaration
 * Can accept default value after `||` ("or" operator) if value does not evaluate as true
+
+
+#### Statements:
+> [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
