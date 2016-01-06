@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Variables](chapter2.md)
 * [Logic Control](chapter3.md)
-* Operators
+* [Operators](chapter3.md)
 
