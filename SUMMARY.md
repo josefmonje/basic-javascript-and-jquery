@@ -5,5 +5,5 @@
 * [Declarations](chapter2.md)
 * [Operators](chapter3.md)
 * [Control Flow](chapter4.md)
-* Iterations
+* [Iterations](chapter5.md)
 
