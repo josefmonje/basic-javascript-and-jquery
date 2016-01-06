@@ -35,30 +35,10 @@ window.onload = function () {
         <div id="header" class="col-md-6" >
           <h1>This is a Heading</h1>
           <p>This is a paragraph.</p>
-        </div>
-        <div id="image" class="col-md-6">
           <a href="#" title="click here!">This is a link</a>
           <img src="http://placehold.it/100x50/?text=image" alt="Alt text" width="100" height="50">
         </div>
       </div>
-
-    <script type="text/javascript">
-    var element = document.getElementById("button")
-    element.addEventListener('click', changeBGWhite, false)
-
-    var changeBGWhite = function () {
-      document.body.style.backgroundColor = "White"
-    }
-
-    function changeBGBlue () {
-      document.body.style.backgroundColor = "blue"
-    }
-
-    window.onload = function () {
-      changeBGBlue()
-    }
-    </script>
-
   </body>
 </html>
 ```
