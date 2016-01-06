@@ -26,6 +26,8 @@ const b
 
 ### Data Types
 
+In JS, everything is an object.
+
 * Number
 * String
 * Boolean
