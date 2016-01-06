@@ -1,4 +1,4 @@
-# Variables
+# Declarations
 
 The Keyword used to declare a variable determines the variable's availability.
 
