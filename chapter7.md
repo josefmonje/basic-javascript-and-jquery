@@ -38,6 +38,9 @@ f()                  // calls the function
 > *Variable assignment and functions*
 
 
+### Research
+
+
 #### Functions:
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
@@ -73,6 +76,8 @@ FIZZ
 FUZZBUZZ!
 ```
 > *Desired FizzBuzz output*
+
+---
 
 
 #### FizzBuzz Solution:
