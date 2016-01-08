@@ -2,9 +2,10 @@
 
 * What is [JavaScript](https://en.wikipedia.org/wiki/JavaScript)?
 * How to JavaScript
-* Variables
-* Logic Control
-* Interacting with the DOM
+* Outputting JS
+* Commenting in JS
+* Keywords
+
 
 ### Scripts
 
@@ -44,7 +45,7 @@ Browser console: `console.log('Hello world!')`
 Why? This gives you a quick way of letting you know what's happening in your code.
 
 
-### Comments
+### Commenting in JS
 
 There are two ways of commenting in JS:
 
