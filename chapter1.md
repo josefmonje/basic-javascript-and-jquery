@@ -75,3 +75,7 @@ Keyword dump! Let's stick to these common keywords for now:
 * Parentheses:  expressions
 * Curly brackets: block of code
 * *Square brackets: optional parts of the pattern*
+
+### Next
+
+* Learn how to declare variables
