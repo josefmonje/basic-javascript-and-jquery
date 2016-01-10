@@ -71,3 +71,8 @@ In case of numbers being represented as strings (`"1"` as opposed to `1`), JS ha
 
 #### Built-in objects:
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+
+
+### Next
+
+* Learn what operators are available for your logic
