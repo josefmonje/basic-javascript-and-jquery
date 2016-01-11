@@ -34,6 +34,8 @@ var f = func(args) { // assigns a function returns arguments passed to it
 }
 var f = func         // the function definition is assigned
 f()                  // calls the function
+
+() => {}             // fat arrow syntax
 ```
 > *Variable assignment and functions*
 
@@ -97,3 +99,8 @@ function FizzBuzz (n){
   }
 }
 ```
+
+
+### Next
+
+* Learn how to interact with the HTML Document
