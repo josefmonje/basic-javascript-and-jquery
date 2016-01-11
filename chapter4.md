@@ -39,4 +39,4 @@ y == true ? console.log('yes') : console.log('no')
 
 ### Next
 
-* Learn how to iterate in JS
+* Learn how to loop and iterate through variables
