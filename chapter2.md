@@ -30,4 +30,4 @@ const b
 
 ### Next
 
-* Let's go deeper into JavaScript Objects
+* Let's go deeper into Objects
