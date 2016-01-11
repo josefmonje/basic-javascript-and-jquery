@@ -35,3 +35,8 @@ y == true ? console.log('yes') : console.log('no')
 
 #### Expressions and Operators:
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
+
+
+### Next
+
+* Learn how to iterate in JS
