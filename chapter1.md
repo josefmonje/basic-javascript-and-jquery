@@ -78,4 +78,4 @@ Keyword dump! Let's stick to these common keywords for now:
 
 ### Next
 
-* Learn how to declare variables
+* Learn how to declare and use variables in your code
