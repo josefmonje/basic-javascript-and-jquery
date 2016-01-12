@@ -30,3 +30,8 @@ if (true) {
 
 #### Statements and delarations:
 > [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+
+
+### Next
+
+* Learn how to define functions
