@@ -16,7 +16,7 @@ if (true) {
 
 if (true) {
   doSomething()
-} else if (anotherCondition) {
+} else if (anotherExpression) {
   doAnotherThing()
 } else {
   doSomethingElse()
@@ -34,4 +34,4 @@ if (true) {
 
 ### Next
 
-* Learn how to define functions
+* Learn how to define and call functions and how it fits into your code
